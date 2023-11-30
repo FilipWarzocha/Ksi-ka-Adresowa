@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1696157876 source:d:\programfiles\programwoanie\ksiazka_adresowa_probne_probnego\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<windows.h>
+	<string>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+
