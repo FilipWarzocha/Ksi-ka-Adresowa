@@ -10,7 +10,7 @@
 
 using namespace std;
 //system("pause");
-
+//zmiana
 fstream plik;
 struct daneprzyjaciol {
     string imie;
