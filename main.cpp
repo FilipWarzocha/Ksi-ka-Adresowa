@@ -8,6 +8,8 @@
 #include<string>
 #include <sstream>
 
+//MIHU to Bu³a
+
 using namespace std;
 //system("pause");
 //zmiana
